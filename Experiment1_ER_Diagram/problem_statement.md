@@ -34,7 +34,7 @@ FlexiFit Gym wants a database to manage its members, trainers, and fitness progr
 |Trainer| trainer_id (PK), name, mobile, email|Represents trainers managing the members.|      
 | Member|mem_id (PK), mem_type, mem_name, mem_mobile, mem_email| Represents gym members.|       
 | Fitness|fit_id (PK), fit_type, fit_desc|Defines the fitness programs.|          
-
+  
 
 ### Relationships and Constraints
 
